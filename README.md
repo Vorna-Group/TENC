@@ -52,5 +52,4 @@ Please follow the private disclosure process in `SECURITY.md`. Do not post sensi
 ## License
 
 MIT — see `LICENSE`.
-*** End Patch
 
