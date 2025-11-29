@@ -37,7 +37,8 @@ Thank you for your interest in contributing! This repository contains the public
 
 ## Attribution
 
-This documentation is released by Vorna Group LLC. Conceived and implemented by Felix Orlov and Nick Medved.
+This documentation is released by Vorna Group LLC.
+Conceived and implemented by Felix Orlov and Nick Medved.
 
 By contributing, you agree that your contributions will be licensed under the MIT License (see `LICENSE`).
 
